@@ -57,8 +57,8 @@ const Search = () => {
               <option>Grande Antigua</option>
               <option>Key West</option>
               <option>Maldives</option>
+              <option>Jamaica</option>
               <option>Cozumel</option>
-              <option>Sanvi</option>
             </select>
           </div>
           <div className="flex flex-col my-4">
