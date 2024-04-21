@@ -1,9 +1,5 @@
 import React from "react";
-import {
-  RiCustomerService2Fill,
-  RiCustomerService2Full,
-  RiCustomerServiceFill,
-} from "react-icons/ri";
+import { RiCustomerService2Fill } from "react-icons/ri";
 import { MdOutlineTravelExplore } from "react-icons/md";
 const Search = () => {
   return (
